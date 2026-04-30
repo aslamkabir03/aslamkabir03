@@ -38,8 +38,8 @@ A passionate **Software Developer** from Bangladesh 🇧🇩
 
 # 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 🌐 GitHub: https://github.com/your-username  
+- 📧 Email: aslamkabir2003@gmail.com 
+- 🌐 GitHub: https://github.com/aslamkabir03  
 
 ---
 
